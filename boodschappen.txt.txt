@@ -3,8 +3,10 @@ Pizza:
 -Pizzadeeg
 -Salami
 -Mozarella
+-Parmazaanse kaas
 
 Ontbijt:
 -Eieren
 -Brood
 -Boter
+-Sinaasappelsap
